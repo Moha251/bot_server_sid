@@ -1,0 +1,8 @@
+{
+   "UniqueCode":"aaaaabbbbb",
+   "UserTelegramId":"123456",
+   "Wallet":"WALLET_ADDRESS",
+   "TronAmount":10,
+   "IsPaid":true,
+   "PaymentDate":"DATETIME"
+}
